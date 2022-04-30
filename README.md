@@ -4,9 +4,7 @@
 
 # Day 10 (10 April 2022) | Experimental
 
-
-
-- [Script `.R`]()
+- [Script `.R`](https://github.com/fblpalmeira/aRtsy/blob/main/data/experimental.R)
 
 <img src="https://github.com/fblpalmeira/aRtsy/blob/main/data/experimental2.png">
 
