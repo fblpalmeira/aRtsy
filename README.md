@@ -8,7 +8,7 @@
 
 - [Script `.R`]()
 
-<img src="">
+<img src="https://github.com/fblpalmeira/aRtsy/blob/main/data/experimental2.png">
 
 Reference:
 
